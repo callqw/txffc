@@ -2,7 +2,7 @@
  * Created by Administrator on 2018/10/19.
  */
 const CONF = {
-    port: '8000',
+    port: '3000',
     rootPathname: '',
 
     // 微信小程序 App ID
@@ -24,7 +24,7 @@ const CONF = {
         port: 3306,
         user: 'root',
         db: 'txffc',
-        pass: '',
+        pass: 'Callqw1234567',
         char: 'utf8mb4'
     },
     cos: {
